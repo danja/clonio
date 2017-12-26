@@ -1,0 +1,7 @@
+archive/*
+
+# backups
+*~
+*.bak
+backups
+geckodriver.log
